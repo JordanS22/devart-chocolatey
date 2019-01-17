@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop';
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  softwareName  = 'dbForge Studio for MySQL, v8.0.40 Express Edition'
+  softwareName  = 'dbForge Studio for MySQL, v8.1.22 Express Edition'
   fileType      = 'exe'
 
   silentArgs    = '/VERYSILENT'
