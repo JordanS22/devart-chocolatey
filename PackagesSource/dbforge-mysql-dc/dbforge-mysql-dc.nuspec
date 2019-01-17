@@ -2,7 +2,7 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <metadata>
         <id>dbforge-mysql-dc</id>
-        <version>5.4.11</version>
+        <version>5.5.20</version>
         <title>dbForge Data Compare for MySQL (Trial)</title>
         <description>dbForge Data Compare for MySQL serves for comparing and synchronizing data in MySQL, Percona, and MariaDB databases. The tool gives clear view of differences between data, allows analyzing them, generates synchronization script, and applies changes at a glance. It also allows scheduling regular MySQL data comparisons using command line.</description>
         <authors>Devart</authors>
@@ -13,7 +13,7 @@
         <releaseNotes>https://www.devart.com/dbforge/mysql/datacompare/revision_history.html</releaseNotes>
         <tags>DataBase Management Studio MySQL Tools Data Compare</tags>
         <packageSourceUrl>https://github.com/DevartSoftware/devart-chocolatey/tree/master/PackagesSource/dbforge-mysql-dc</packageSourceUrl>
-        <docsUrl>https://www.devart.com/dbforge/mysql/datacompare/DataCompareMySQL.chm</docsUrl>
+        <docsUrl>https://docs.devart.com/data-compare-for-mysql/</docsUrl>
         <dependencies>
             <dependency id="dotnet4.5.2" version="4.5.2.20140902" />
         </dependencies>
