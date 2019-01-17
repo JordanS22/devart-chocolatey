@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop';
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  softwareName  = 'Compare Bundle for MySQL Trial'
+  softwareName  = 'Compare Bundle for MySQL, v.8.1.1 Standard Trial'
   fileType      = 'exe'
 
   silentArgs    = '/VERYSILENT'
