@@ -2,7 +2,7 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <metadata>
         <id>dbforge-mysql-doc-std</id>
-        <version>1.1.10</version>
+        <version>1.2.20</version>
         <title>dbForge Documenter for MySQL Standard (Trial)</title>
         <description>dbForge Documenter for MySQL (Trial) is a handy MySQL and MariaDB documentation tool that automatically generates documentation of an entire MySQL database in HTML, PDF, and MARKDOWN file formats. The tool allows users to customize the generated documentation up to their needs with help of a bunch of options and settings. With dbForge Documenter for MySQL, you can document as many MySQL databases, as you want, and save time for more vital tasks!</description>
         <authors>Devart</authors>
@@ -13,7 +13,7 @@
         <releaseNotes>https://www.devart.com/dbforge/mysql/documenter/revision_history.html</releaseNotes>
         <tags>DataBase Management Studio MySQL Tools Documentation Trial</tags>
         <packageSourceUrl>https://github.com/DevartSoftware/devart-chocolatey/tree/master/PackagesSource/dbforge-mysql-doc-std</packageSourceUrl>
-        <docsUrl>https://www.devart.com/dbforge/mysql/documenter/DocumenterMySQL.chm</docsUrl>
+        <docsUrl>https://docs.devart.com/documenter-for-mysql/</docsUrl>
         <dependencies>
             <dependency id="dotnet4.5.2" version="4.5.2.20140902" />
         </dependencies>
